@@ -1,4 +1,4 @@
-A{
+{
   "name": "dev",
   "chef_type": "environment",
   "json_class": "Chef::Environment",
